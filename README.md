@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nguyễn Mạnh Dũng (aka Hundle)
+# 👋 Hi, I'm Nguyễn Mạnh Dũng
 
 ### 🚀 Full-stack Developer | Web3 Enthusiast | UI Lover
 
